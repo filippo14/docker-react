@@ -1,3 +1,7 @@
+# docker-react
+Example of integration of GitHub repo with Travis CI and AWS Elastic Beanstalk
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
